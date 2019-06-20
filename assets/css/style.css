@@ -1,0 +1,16 @@
+*{
+    font-size: 15px;
+}
+/* I couldn't figure out how to just put a black background on the text so it ended up just covering the entire background */
+.color {
+    color: yellow;
+    display: inline-block;
+    background-color: black;
+}
+body{
+    background-image: url('https://cdn-images-1.medium.com/max/2400/1*cWCjyB89P4sUy26XqpF10A.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: yellow;
+};
+
